@@ -1,0 +1,24 @@
+# Compressed-sensing diffusion spectrum imaging (CS-DSI)
+
+This dataset contains diffusion, anatomical, functional, and field mapping neuroimaging data
+from a diffusion protocol comparison study used in
+[Radhakrishnan et al. (2024)](https://doi.org/10.1002/hbm.26580).
+
+## Diffusion spectrum imaging data
+
+acq-HASC92: This corresponds to the HA-SC92 CS-DSI scheme from the paper.
+There are 92 unique directions.
+
+acq-HASC55 run-01: This corresponds to the HA-SC55–1 CS-DSI scheme from the paper.
+There are 55 unique directions.
+
+acq-HASC55 run-02: This corresponds to the HA-SC55–2 CS-DSI scheme from the paper.
+There are 55 unique directions.
+
+acq-RAND57: This corresponds to the RAND57 CS-DSI scheme from the paper.
+There are 57 unique directions.
+
+The HA-SC92+55–1 and HA-SC92+55–2 CS-DSI schemes can be reconstructed by
+preprocessing the HA-SC92 and HA-SC55 files and then concatenating them
+before doing any reconstruction.
+HA-SC92+55–1 uses HA-SC92 and HA-SC55-1, while HA-SC92+55–2 uses HA-SC92 and HA-SC55-2.
