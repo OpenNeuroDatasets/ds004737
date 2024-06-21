@@ -2,7 +2,9 @@
     "AcquisitionDateTime": "2019-07-22T10:37:22.270000",
     "AcquisitionMatrixPE": 136,
     "AcquisitionNumber": 1,
-    "AcquisitionTime": "10:37:22.270000",
+    "B0FieldSource": [
+        "dwiepi"
+    ],
     "BandwidthPerPixelPhaseEncode": 18.854,
     "BaseResolution": 136,
     "BodyPartExamined": "BRAIN",
@@ -17,7 +19,6 @@
     "EchoTrainLength": 58,
     "EffectiveEchoSpacing": 0.000389994,
     "FlipAngle": 90,
-    "ImageComments": "Unaliased_MB4_PE4_SENSE1_20840_11330@BBL:CS-DSI",
     "ImageOrientationPatientDICOM": [
         1,
         0,
@@ -38,7 +39,6 @@
     ],
     "ImagingFrequency": 123.255,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "InstitutionAddress": "Curie_Blvd._422_Philadelphia_PA_US_19104",
     "InstitutionName": "SC3T",
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
