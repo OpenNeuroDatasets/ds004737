@@ -1,5 +1,4 @@
 {
-    "AcquisitionDateTime": "2019-06-02T16:44:5.592500",
     "AcquisitionMatrixPE": 90,
     "AcquisitionNumber": 1,
     "B0FieldIdentifier": [
@@ -12,8 +11,8 @@
     "ConversionSoftwareVersion": "v1.0.20181114  (JP2:OpenJPEG) GCC4.8.4",
     "DeidentificationMethod": "Penn_BSC_profile_v3.0",
     "DeviceSerialNumber": "66044",
-    "EchoNumber": 2,
-    "EchoTime": 0.00746,
+    "EchoTime1": 0.005,
+    "EchoTime2": 0.00746,
     "FlipAngle": 60,
     "ImageOrientationPatientDICOM": [
         1,
