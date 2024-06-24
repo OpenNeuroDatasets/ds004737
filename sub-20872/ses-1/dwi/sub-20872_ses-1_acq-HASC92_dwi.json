@@ -1,9 +1,11 @@
 {
-    "AcquisitionDateTime": "2019-08-06T19:33:16.555000",
     "AcquisitionMatrixPE": 136,
     "AcquisitionNumber": 1,
+    "B0FieldIdentifier": [
+        "hasc92epi"
+    ],
     "B0FieldSource": [
-        "dwiepi"
+        "hasc92epi"
     ],
     "BandwidthPerPixelPhaseEncode": 18.854,
     "BaseResolution": 136,
