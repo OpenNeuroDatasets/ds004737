@@ -1,9 +1,8 @@
 {
-    "AcquisitionDateTime": "2019-06-02T14:36:3.147500",
     "AcquisitionMatrixPE": 90,
     "AcquisitionNumber": 1,
     "B0FieldIdentifier": [
-        "dwiepi"
+        "funcepi"
     ],
     "BandwidthPerPixelPhaseEncode": 21.786,
     "BaseResolution": 90,
