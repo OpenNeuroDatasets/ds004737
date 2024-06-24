@@ -1,9 +1,11 @@
 {
-    "AcquisitionDateTime": "2019-07-10T13:44:33.275000",
     "AcquisitionMatrixPE": 136,
     "AcquisitionNumber": 1,
     "B0FieldIdentifier": [
-        "dwiepi"
+        "hasc55run01epi",
+        "hasc55run02epi",
+        "hasc92epi",
+        "rand57epi"
     ],
     "BandwidthPerPixelPhaseEncode": 18.854,
     "BaseResolution": 136,
@@ -39,6 +41,12 @@
     "ImagingFrequency": 123.255,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "InstitutionName": "SC3T",
+    "IntendedFor": [
+        "bids::sub-20708/ses-1/dwi/sub-20708_ses-1_acq-HASC55_run-01_dwi.nii.gz",
+        "bids::sub-20708/ses-1/dwi/sub-20708_ses-1_acq-HASC55_run-02_dwi.nii.gz",
+        "bids::sub-20708/ses-1/dwi/sub-20708_ses-1_acq-HASC92_dwi.nii.gz",
+        "bids::sub-20708/ses-1/dwi/sub-20708_ses-1_acq-RAND57_dwi.nii.gz"
+    ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
     "Manufacturer": "Siemens",
