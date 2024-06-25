@@ -23,6 +23,10 @@ preprocessing the HA-SC92 and HA-SC55 files and then concatenating them
 before doing any reconstruction.
 HA-SC92+55–1 uses HA-SC92 and HA-SC55-1, while HA-SC92+55–2 uses HA-SC92 and HA-SC55-2.
 
+## Functional MRI data
+
+One run of open-eye resting-state single-echo fMRI data was acquired according to the ABCD protocol (60 slices; repetition time, TR=800 ms; echo time, TE=30 ms; flip angle, FA=52 degrees; field of view, FOV=216x216 mm, matrix size=90x90; voxel size=2.4x2.4x2.4 mm; multiband acceleration factor=6). The run was 5:01 minutes in length.
+
 ## Field map data
 
 dir-PA_epi: EPI maps with the opposite phase encoding direction to the DWI scans,
