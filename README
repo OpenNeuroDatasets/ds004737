@@ -7,6 +7,9 @@ Specifically, this dataset is the "prospective" dataset used in that paper.
 
 ## Diffusion spectrum imaging data
 
+Four runs of segmented k-space and steady state echo planar (EP) diffusion-weighted (dMRI) data were collected (repetition time, TR=4300ms; echo time, TE=90ms; flip angle, FA=90°; field of view, FOV=230x230mm; voxel size=1.69x1.69x1.7mm; matrix size=136x136; MB factor=4). 
+Each run was acquired with a different set of diffusion directions, described briefly below:
+
 acq-HASC92: This corresponds to the HA-SC92 CS-DSI scheme from the paper.
 There are 92 unique directions.
 
@@ -26,9 +29,11 @@ HA-SC92+55–1 uses HA-SC92 and HA-SC55-1, while HA-SC92+55–2 uses HA-SC92 and
 
 ## Anatomical MRI data
 
+One run of T1-weighted segmented k-space, spoiled, and MAG prepared gradient recalled and inversion recovery (GR/IR) single-echo structural MRI data were collected (256 slices; repetition time, TR=2500ms; echo time, TE=2.9ms; flip angle, FA=8°; field of view, FOV=176x256mm; matrix size=176x256; voxel size=1x1x1mm).
+
 ## Functional MRI data
 
-One run of open-eye resting-state single-echo fMRI data was acquired according to the ABCD protocol (60 slices; repetition time, TR=800 ms; echo time, TE=30 ms; flip angle, FA=52 degrees; field of view, FOV=216x216 mm, matrix size=90x90; voxel size=2.4x2.4x2.4 mm; multiband acceleration factor=6). The run was 5:01 minutes in length.
+One run of rest eyes open segmented k-space echo planar (EP) single-echo fMRI data was acquired according to the ABCD protocol (60 slices in interleaved ascending order; repetition time, TR=800ms; echo time, TE=30ms; flip angle, FA=52°; field of view, FOV=216x216mm; matrix size=90x90; voxel size=2.4x2.4x2.4mm; MB factor=6). Run duration was 5:01 minutes, during which 376 volumes were acquired.
 
 ## Field map data
 
