@@ -3,6 +3,7 @@
 This dataset contains diffusion, anatomical, functional, and field mapping neuroimaging data
 from a diffusion protocol comparison study used in
 [Radhakrishnan et al. (2024)](https://doi.org/10.1002/hbm.26580).
+Specifically, this dataset is the "prospective" dataset used in that paper.
 
 ## Diffusion spectrum imaging data
 
@@ -22,6 +23,8 @@ The HA-SC92+55–1 and HA-SC92+55–2 CS-DSI schemes can be reconstructed by
 preprocessing the HA-SC92 and HA-SC55 files and then concatenating them
 before doing any reconstruction.
 HA-SC92+55–1 uses HA-SC92 and HA-SC55-1, while HA-SC92+55–2 uses HA-SC92 and HA-SC55-2.
+
+## Anatomical MRI data
 
 ## Functional MRI data
 
